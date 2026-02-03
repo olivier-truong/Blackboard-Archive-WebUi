@@ -17,3 +17,13 @@ here is some screenshot of the Web UI
 ### **Export Section Screen**
 
 <img src="./screenshots/courses_export_section.png">
+
+### **Progress Bar and Downloads Button**
+
+<img src="./screenshots/progress_bar_and_download_button.png">
+
+---
+
+<p style="color: red;">
+If you are worry about the empty sections in the screenshots, don't worry, it's just a mask over my courses. In your case, you will see your own courses ;)
+</p>
