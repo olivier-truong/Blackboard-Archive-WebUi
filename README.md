@@ -11,4 +11,9 @@ here is some screenshot of the Web UI
 
 ### **Login Form**
 
-[./screenshots/LoginForm_screenshot.png](./screenshots/LoginForm_screenshot.png)
+<img src="./screenshots/LoginForm_screenshot.png">
+
+
+### **Export Section Screen**
+
+<img src="./screenshots/courses_export_section.png">
