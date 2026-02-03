@@ -1,0 +1,2 @@
+python3.exe BlackboardArchiveWebapp.py
+pause
