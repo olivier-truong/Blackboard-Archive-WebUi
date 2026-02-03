@@ -1,6 +1,8 @@
 # Blackboard-Archive-WebUi
 A Simple WebUi to collect attachments from blackboard in python with only requests
 
+## Before starting anything: **you must change the file: `base_url.txt` with the url of your blackboard ex: https://blackboard.your-univ.com**
+
 To get start, you can use `bash start-web-ui.sh` if you are on linux
 
 Or just start `start-web-ui.bat` if you are on windows !
