@@ -24,6 +24,4 @@ here is some screenshot of the Web UI
 
 ---
 
-<p style="color: red;">
-If you are worry about the empty sections in the screenshots, don't worry, it's just a mask over my courses. In your case, you will see your own courses ;)
-</p>
+*If you are worry about the empty sections in the screenshots, don't worry, it's just a mask over my courses. In your case, you will see your own courses ;)*
